@@ -1,0 +1,4 @@
+account number: 396343719918
+region: us-west-2
+user arn: arn:aws:iam::396343719918:user/rrmavani
+cluster name: 
