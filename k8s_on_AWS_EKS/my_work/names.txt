@@ -1,4 +1,6 @@
-account number: 396343719918
+account number: xxxxxxx
 region: us-west-2
-user arn: arn:aws:iam::396343719918:user/rrmavani
-cluster name: 
+user arn: arn:aws:iam::xxxxxxx:user/rrmavani
+vpc id : vpc-064f2899317443313
+cluster name: lil-eks
+tag : lil-eks
