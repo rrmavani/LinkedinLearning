@@ -1,6 +1,6 @@
-Course : Linkedin Learning - running-kubernetes-on-aws-eks
-INSTRUCTOR : Kim Schlesinger - Technical Curriculum Developer
-Github repo : github.com:kimschles/k8s-on-aws.git 
+Course : Linkedin Learning - running-kubernetes-on-aws-eks  
+INSTRUCTOR : Kim Schlesinger - Technical Curriculum Developer  
+Github repo : github.com:kimschles/k8s-on-aws.git   
 
 .envrc
 ```
@@ -53,8 +53,9 @@ username : rrmavani
     }
 }
 ```
-```
+  
 ### Other commands
+  
 ```
 kubectl config get-contexts
 
